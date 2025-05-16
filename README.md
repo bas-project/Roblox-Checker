@@ -38,3 +38,11 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 🔧 Простая настройка и использование
 
 🚀 Повышение эффективности работы с аккаунтами Roblox
+
+🇺🇸 You can contact me for similar services
+
+🇷🇺 Вы можете обратиться ко мне за подобными услугами
+
+💬 https://t.me/BASProject | https://t.me/Ax1zz
+
+![Frame 174](https://github.com/user-attachments/assets/7ae4c5d0-a424-45aa-bd8d-5818a20bb395)
