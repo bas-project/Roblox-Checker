@@ -9,15 +9,15 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 
 ⚙️ Full automation of the process
 
+🚀 Bypass captcha
+
 🛡️ Simplifies management of large account volumes
 
-⏱️ Saves time and resources
+✏️ Writing a auth-token to a txt-file
 
 📊 Quickly identifies blocked or inactive accounts
 
 🔧 Easy setup and user-friendly interface
-
-🚀 Increases efficiency in managing Roblox accounts
 
 🇷🇺 RU:
 
@@ -29,15 +29,27 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 
 ⚙️ Полная автоматизация процесса
 
+🚀 Обход капчи
+
 🛡️ Облегчение управления большим количеством аккаунтов
 
-⏱️ Экономия времени и ресурсов
+✏️ Запись auth-токена в txt файл
 
 📊 Возможность быстро выявлять заблокированные или неактивные аккаунты
 
 🔧 Простая настройка и использование
 
-🚀 Повышение эффективности работы с аккаунтами Roblox
+🛠 Требования:
+
+💻 BAS (Browser Automation Studio)
+
+🌐 Стабильное интернет-соединение
+
+🧩 Подключение к сервисам почты/SMS
+
+🔒 Использование прокси (IPv4, SOCKS5, etc.)
+
+🧠 Интеграция с антикапчей (по выбору)
 
 🇺🇸 You can contact me for similar services
 
