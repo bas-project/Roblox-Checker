@@ -19,7 +19,7 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 
 🔧 Easy setup and user-friendly interface
 
-🛠 Requirements:
+🛠 **Requirements**:
 
 💻 BAS (Browser Automation Studio)
 
@@ -51,7 +51,7 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 
 🔧 Простая настройка и использование
 
-🛠 Требования:
+🛠 **Требования**:
 
 💻 BAS (Browser Automation Studio)
 
