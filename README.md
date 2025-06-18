@@ -19,6 +19,18 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 
 🔧 Easy setup and user-friendly interface
 
+🛠 Requirements:
+
+💻 BAS (Browser Automation Studio)
+
+🌐 Stable internet connection
+
+🧩 Access to email/SMS services
+
+🔒 Use of proxies (IPv4, SOCKS5, http(s), etc.)
+
+🧠 Integration with anti-captcha (optional)
+
 🇷🇺 RU:
 
 Автоматическая программа для проверки работоспособности аккаунтов Roblox, упрощающая управление и ускоряющая процесс выявления активных и заблокированных аккаунтов.
@@ -47,7 +59,7 @@ An automated tool for checking the validity of Roblox accounts, simplifying acco
 
 🧩 Подключение к сервисам почты/SMS
 
-🔒 Использование прокси (IPv4, SOCKS5, etc.)
+🔒 Использование прокси (IPv4, SOCKS5, http(s) etc.)
 
 🧠 Интеграция с антикапчей (по выбору)
 
